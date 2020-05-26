@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Rgt38Dn6IqXne4lLhtsJh6llf3vrolD94SNwXQkHM92xdS6oId/1YAA2w26B19D3zafcp4UgPNLcWdmC5th8Q==",
+  "success": true,
+  "projectFilePath": "/home/ismail/Desktop/Demolar/netCore/LocalizationExample/LocalizationExample.csproj",
+  "expectedPackageFiles": [
+    "/home/ismail/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
